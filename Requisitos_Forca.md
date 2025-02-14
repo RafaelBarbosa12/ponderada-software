@@ -12,3 +12,4 @@ erro proposital
 * O sistema deve dar feedbacks em caso de erro, completando uma parte do boneco da forca
 * O sistema deve finalizar a partida com o resultado de vitória ou derrota.
 erro proposital
+

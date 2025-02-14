@@ -11,3 +11,9 @@ Segue abaixo os requisitos funcionais:
 * O sistema deve dar feedbacks em caso de erro, completando uma parte do boneco da forca.
 * O sistema deve finalizar a partida com o resultado de vitória ou derrota.
 
+### REQUISITOS NÃO FUNCIONAIS
+
+Segue abaixo os requisitos não funcionais:
+
+* O sistema deve apresentar o feedback positivo ou negativo em menos de 2 segundos.
+* O sistema deve estar disponível 95% do tempo.
